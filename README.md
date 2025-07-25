@@ -1,6 +1,7 @@
 # Estudo-Dirigido-PDS-
 
 ALuno: Caio Lívio Leite Muniz Dantas
+
 Matrícula: 202121250039
 
 Este repositório GitHub foi criado como parte do estudo dirigido da disciplina Processamento Digital de Sinais (2025.1), ministrada pelo Prof. Moacy Pereira da Silva no IFPB - Campus Campina Grande. O objetivo principal é aplicar os conceitos teóricos da disciplina por meio de simulações computacionais em Python, baseadas nos exemplos do livro-texto "Digital Signal Processing using MATLAB".
