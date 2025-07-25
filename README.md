@@ -9,6 +9,7 @@ Este repositório GitHub foi criado como parte do estudo dirigido da disciplina 
 O projeto está organizado em seis partes, cada uma correspondendo a um capítulo do livro, e inclui resumos teóricos, simulações práticas, vídeos explicativos e links para notebooks no Google Colab.
 
 📂 Estrutura do Repositório
+
 O repositório está dividido nas seguintes partes (capítulos), conforme solicitado:
 
 - Parte 1 (Cap. 4): A Transformada-z --> Link para acessar: https://colab.research.google.com/drive/1vL9B_r4GTMFMq0ZXfw7DRk8SCKTKF5Ks?usp=sharing
