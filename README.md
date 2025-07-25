@@ -22,6 +22,3 @@ O repositório está dividido nas seguintes partes (capítulos), conforme solici
 - Parte 5 (Cap.8): Projeto de Filtros IIR --> Link para acessar: https://colab.research.google.com/drive/1BbmFBzS5CHD3_K5Guj54iBccvwlPmgXn?usp=sharing
 
 - Parte 6 (Cap. 12): Aplicações em Comunicações --> Link para acessar: https://colab.research.google.com/drive/1OnSmqYAXDFUpYSSjmMHnJhaulnIkco1G?usp=sharing
-
-Na qual cada parte (capítulo) contém um notebook no Google Colab apresentando o resumo, aplicações, simulações e links explicativos.
-  
