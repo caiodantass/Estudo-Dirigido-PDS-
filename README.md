@@ -5,55 +5,19 @@ Este repositório GitHub foi criado como parte do estudo dirigido da disciplina 
 O projeto está organizado em seis partes, cada uma correspondendo a um capítulo do livro, e inclui resumos teóricos, simulações práticas, vídeos explicativos e links para notebooks no Google Colab.
 
 📂 Estrutura do Repositório
-O repositório está dividido nas seguintes partes, conforme solicitado:
+O repositório está dividido nas seguintes partes (capítulos), conforme solicitado:
 
-Parte 1: A Transformada-z
+- Parte 1: A Transformada-z --> Link para acessar: https://colab.research.google.com/drive/1vL9B_r4GTMFMq0ZXfw7DRk8SCKTKF5Ks?usp=sharing
 
-Resumo teórico
+- Parte 2: Transformada Discreta de Fourier
 
-Simulações em Python
+- Parte 3: Implementação de Filtros Discretos no Tempo
 
-Links para vídeos explicativos
+- Parte 4: Projeto de Filtros FIR
 
-Parte 2: Transformada Discreta de Fourier
+- Parte 5: Projeto de Filtros IIR
 
-Resumo teórico
+- Parte 6: Aplicações em Comunicações
 
-Simulações em Python
-
-Links para vídeos explicativos
-
-Parte 3: Implementação de Filtros Discretos no Tempo
-
-Resumo teórico
-
-Simulações em Python
-
-Links para vídeos explicativos
-
-Parte 4: Projeto de Filtros FIR
-
-Resumo teórico
-
-Simulações em Python
-
-Links para vídeos explicativos
-
-Parte 5: Projeto de Filtros IIR
-
-Resumo teórico
-
-Simulações em Python
-
-Links para vídeos explicativos
-
-Parte 6: Aplicações em Comunicações
-
-Resumo teórico
-
-Simulações em Python
-
-Links para vídeos explicativos
-
-Cada parte contém um notebook no Google Colab com o código das simulações e uma discussão dos resultados.
-
+Na qual cada parte (capítulo) contém um notebook no Google Colab apresentando o resumo, aplicações, simulações e links explicativos.
+  
